@@ -1,0 +1,15 @@
+D:\workroot\space\csharp-udp-server\bin\Debug\net7.0\csharp-udp-server.exe
+D:\workroot\space\csharp-udp-server\bin\Debug\net7.0\csharp-udp-server.deps.json
+D:\workroot\space\csharp-udp-server\bin\Debug\net7.0\csharp-udp-server.runtimeconfig.json
+D:\workroot\space\csharp-udp-server\bin\Debug\net7.0\csharp-udp-server.dll
+D:\workroot\space\csharp-udp-server\bin\Debug\net7.0\csharp-udp-server.pdb
+D:\workroot\space\csharp-udp-server\obj\Debug\net7.0\csharp-udp-server.csproj.AssemblyReference.cache
+D:\workroot\space\csharp-udp-server\obj\Debug\net7.0\csharp-udp-server.GeneratedMSBuildEditorConfig.editorconfig
+D:\workroot\space\csharp-udp-server\obj\Debug\net7.0\csharp-udp-server.AssemblyInfoInputs.cache
+D:\workroot\space\csharp-udp-server\obj\Debug\net7.0\csharp-udp-server.AssemblyInfo.cs
+D:\workroot\space\csharp-udp-server\obj\Debug\net7.0\csharp-udp-server.csproj.CoreCompileInputs.cache
+D:\workroot\space\csharp-udp-server\obj\Debug\net7.0\csharp-udp-server.dll
+D:\workroot\space\csharp-udp-server\obj\Debug\net7.0\refint\csharp-udp-server.dll
+D:\workroot\space\csharp-udp-server\obj\Debug\net7.0\csharp-udp-server.pdb
+D:\workroot\space\csharp-udp-server\obj\Debug\net7.0\csharp-udp-server.genruntimeconfig.cache
+D:\workroot\space\csharp-udp-server\obj\Debug\net7.0\ref\csharp-udp-server.dll
